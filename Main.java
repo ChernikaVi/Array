@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class Main {
+public class task0 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        int []num = new int[10];
+        int[] num = new int[] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
         int i = scan.nextInt();
 
@@ -15,7 +15,6 @@ public class Main {
         }
     }
 }
-
 
 
 
